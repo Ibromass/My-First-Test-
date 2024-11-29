@@ -1,0 +1,15 @@
+
+
+h1{
+    color: red;
+    text-align: center;
+    background-color: lightblue;
+}
+.A{
+    padding-right:8px ;
+    padding-left:8px ;
+    padding-top:8px ;
+    padding-bottom: 8pc;
+    background-color: antiquewhite;
+    margin: 50px;
+}
